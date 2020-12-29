@@ -1,62 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="Trending",01 US: CNN | HD
-#EXTGRP:Trending
-https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/2646
-#EXTINF:0 group-title="Trending",02 AF: eMovies Extra
-#EXTGRP:Trending
-https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/666197756
-#EXTINF:0 group-title="Trending",03 US: FOX NEWS CHANNEL | HD
-#EXTGRP:Trending
-https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/430
-#EXTINF:0 group-title="Trending",04 US: CNN | UHD
-#EXTGRP:Trending
-https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/425
-#EXTINF:0 group-title="Trending",05 US: MSNBC | HD
-#EXTGRP:Trending
-https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/2645
-#EXTINF:0 group-title="Trending",06 US: INVESTIGATION DISCOVERY (EAST) | HD
-#EXTGRP:Trending
-https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/2655
-#EXTINF:0 group-title="Trending",07 CA: TSN 3 | HD
-#EXTGRP:Trending
-https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/2131
-#EXTINF:0 group-title="Trending",08 US: DISCOVERY (EAST) | HD
-#EXTGRP:Trending
-https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/2650
-#EXTINF:0 group-title="Trending",09 US: HGTV (EAST) | HD
-#EXTGRP:Trending
-https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/99580
-#EXTINF:0 group-title="Trending",10 US: COMEDY CENTRAL | HD
-#EXTGRP:Trending
-https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/282
-#EXTINF:0 group-title="Trending",11 US: MSNBC HD
-#EXTGRP:Trending
-https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/666406
-#EXTINF:0 group-title="Trending",12 US: HALLMARK CHANNEL | HD
-#EXTGRP:Trending
-https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/322
-#EXTINF:0 group-title="Trending",13 US: DISNEY JR (EAST) | HD
-#EXTGRP:Trending
-https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/1656
-#EXTINF:0 group-title="USA DOCUMENTARY",US: DISCOVERY VELOCITY (MOTORTREND) | HD
-#EXTGRP:USA DOCUMENTARY
-https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/350
-#EXTINF:0 group-title="USA DOCUMENTARY",US: MOTORTREND | HD
-#EXTGRP:USA DOCUMENTARY
-https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/456
-#EXTINF:0 group-title="USA DOCUMENTARY",US: TRAVEL CHANNEL (EAST) | HD
-#EXTGRP:USA DOCUMENTARY
-https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/11417
-#EXTINF:0 group-title="USA DOCUMENTARY",US: ANIMAL PLANET | HD
-#EXTGRP:USA DOCUMENTARY
-https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/2640
-#EXTINF:0 group-title="USA DOCUMENTARY",US: NATIONAL GEOGRAPHIC (EAST) | SD
-#EXTGRP:USA DOCUMENTARY
-https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/149680
-#EXTINF:0 group-title="24/7 Movies", = 24/7 Movies = 
-#EXTGRP:24/7 Movies
-https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/99820275
-#EXTINF:0 group-title="24/7 Movies",24/7 | The Big Bang Theory
 #EXTINF:0 group-title="USA MOVIE NETWORKS",US: CINEMAX (EAST) | HD
 #EXTGRP:USA MOVIE NETWORKS
 https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/4964
@@ -171,3 +113,150 @@ https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/92315
 #EXTINF:0 group-title="USA MOVIE NETWORKS",US: HBO SIGNATURE (EAST) | HD
 #EXTGRP:USA MOVIE NETWORKS
 https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/1342
+#EXTINF:0 group-title="USA",US: nickelodeon HD
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/666764
+#EXTINF:0 group-title="USA",US: Cartoon Network HD
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/6662286
+#EXTINF:0 group-title="USA",US: Disney Channel HD
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/6662303
+#EXTINF:0 group-title="USA",US: Travel Channel FHD
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/6662363
+#EXTINF:0 group-title="USA",US: HBO Signature FHD
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/6666305
+#EXTINF:0 group-title="USA",US: HBO (East) HD
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/6666382
+#EXTINF:0 group-title="USA",US: Disney XD EAST
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/6666395
+#EXTINF:0 group-title="USA",US: NAT GEO Wild HD
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/6666503
+#EXTINF:0 group-title="USA",US: Disney XD FHD
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/6668400
+#EXTINF:0 group-title="USA",US: Discovery Life HD
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/6668555
+#EXTINF:0 group-title="USA",US: Disney JR HD
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/6668608
+#EXTINF:0 group-title="USA",US: Spike HD
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66614839
+#EXTINF:0 group-title="USA",US: Cinemax Moviemax
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66615110
+#EXTINF:0 group-title="USA",US: Cinema 05 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66630973
+#EXTINF:0 group-title="USA",US: Cinema 03 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66630978
+#EXTINF:0 group-title="USA",US: Cinema 04 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66630979
+#EXTINF:0 group-title="USA",US: Cinema 06 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66630980
+#EXTINF:0 group-title="USA",US: Cinema 09 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66630981
+#EXTINF:0 group-title="USA",US: Cinema 14 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66630986
+#EXTINF:0 group-title="USA",US: Cinema 20 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66630988
+#EXTINF:0 group-title="USA",US: Cinema 17 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66630990
+#EXTINF:0 group-title="USA",US: Cinema 15 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66630991
+#EXTINF:0 group-title="USA",US: Cinema 23 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66630992
+#EXTINF:0 group-title="USA",US: Cinema 22 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66630994
+#EXTINF:0 group-title="USA",US: Cinema 26 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66630998
+#EXTINF:0 group-title="USA",US: Cinema 27 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66630999
+#EXTINF:0 group-title="USA",US: Cinema 28 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66631001
+#EXTINF:0 group-title="USA",US: Cinema 10 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66633458
+#EXTINF:0 group-title="USA",US: FOX DALLAS TX KDFW
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66635052
+#EXTINF:0 group-title="USA",US: Cinemax Action HD
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66656798
+#EXTINF:0 group-title="USA",US: Cinema 08 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66661436
+#EXTINF:0 group-title="USA",US: Cinema 12 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66661440
+#EXTINF:0 group-title="USA",US: Cinema 11 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66661442
+#EXTINF:0 group-title="USA",US: Cinema 07 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66661443
+#EXTINF:0 group-title="USA",US: Cinema 13 PPV HD
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66666070
+#EXTINF:0 group-title="USA",US: Cinema 37 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/66676363
+#EXTINF:0 group-title="USA",US: Cinema 31 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/666145996
+#EXTINF:0 group-title="USA",US: Cinema 35 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/666145998
+#EXTINF:0 group-title="USA",US: Cinema 34 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/666145999
+#EXTINF:0 group-title="USA",US: Cinemax Action 2 HD
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/666146000
+#EXTINF:0 group-title="USA",US: Cinemax Action East FHD
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/666146002
+#EXTINF:0 group-title="USA",US: Disney XD Pacific
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/666148219
+#EXTINF:0 group-title="USA",US: Cinema 38 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/666148824
+#EXTINF:0 group-title="USA",US: Cinema 36 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/666148825
+#EXTINF:0 group-title="USA",US: Cinema 32 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/666148828
+#EXTINF:0 group-title="USA",US: Cinema 18 PPV
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/666148831
+#EXTINF:0 group-title="USA",US: HBO Plus HD
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/666171819
+#EXTINF:0 group-title="USA",US: Cinema 10 Infinity War
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/666192847
+#EXTINF:0 group-title="USA",US: Discovery Turbo HD
+#EXTGRP:USA
+https://cdn.sha-256.org/101498475/7wlQrZ3t4Q/666198050
